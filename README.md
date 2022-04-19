@@ -6,6 +6,7 @@ This repository is organised as follows:
 - **/data**: Contains the experiment's run table (with aggregated measurements per run as well as their configuration);
 - **/analysis**: Contains all scripts used for data analysis;
 - **/figures**: Contains all figures created during data analysis;
+- **/figures/maps**: Contains the maps created be each SLAM algorithm;
 - **/ros_packages**: Contains all custom ROS packages for measuring power consumption, CPU utilisation and memory utilisation.
 
 ## Robot Runner
